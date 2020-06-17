@@ -1,0 +1,3 @@
+my_name_is_dan = true
+if my_name_is_dan:
+  print("Hello, Dan!")
